@@ -1,0 +1,22 @@
+* Components
+** TODO Reciever
+*** TODO Features
+**** TODO Taking Screenshot
+**** TODO Wait For Connection
+**** TODO Close Connection
+**** TODO Start At StartUp
+**** TODO Ping
+**** TODO Controling the command line
+**** TODO Open the microphone
+**** TODO Record a Video
+**** TODO Send Back Vidoes
+**** TODO Send Back Images
+**** TODO Control Files
+**** TODO The Ability to delete it self
+** Remote
+*** TODO Features
+**** TODO ChaningIP
+**** TODO Sending Commands
+**** TODO Listing How Many Devices are connceted
+* Naming
+- Use The CamelCase Syntax
